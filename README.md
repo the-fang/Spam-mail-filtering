@@ -5,4 +5,8 @@ E-mail is an effective and very cheap means of communication, this fact is being
 
 =========================================================================================
 
-Feel free to download the Zip file
+Feel free to comment/suggest changes/Use the code.
+
+ML_Final has the complete documentation, background and results of this project.
+
+=========================================================================================
